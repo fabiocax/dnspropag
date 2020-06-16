@@ -4,6 +4,11 @@
 DNSpropag is a command line tool for verifying DNS propagation.
 ```
 
+## Requirements
+```
+pip3 install -r requirements.txt
+```
+
 ## Usage
 
 ```
