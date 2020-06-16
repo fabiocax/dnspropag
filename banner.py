@@ -6,8 +6,8 @@ def print_banner():
  \__,_|_| |_|___/ .__/|_|  \___/| .__/ \__,_|\__, |
                 |_|             |_|          |___/
 
-Author: Gabriel Dutra A.K.A SlackDie
-Github: https://github.com/slackdie/dnspropag
+Author: Gabriel Dutra A.K.A bsd0x
+Github: https://github.com/bsd0x/dnspropag
 Version: 1.0.0
     ''''\033[0;0m'
 
